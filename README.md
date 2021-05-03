@@ -1,2 +1,4 @@
-# scrape-pro-football-reference
-Project to scrape nfl statistics from pro football reference.
+# nfl-data-science
+Using data science to predict outcomes in nfl games, player statistics for sports betting and/or fantasy football.
+
+
